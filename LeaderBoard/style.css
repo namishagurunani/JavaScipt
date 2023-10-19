@@ -13,6 +13,7 @@ body{
     display: grid;
     justify-content: center;
     padding: 3em 0;
+    background-image: url(https://images.unsplash.com/photo-1569470451072-68314f596aec?auto=format&fit=crop&q=60&w=500&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MTV8fGdyYWRpZW50JTIwYmxhY2t8ZW58MHx8MHx8fDA%3D);
 }
 
 main{
@@ -25,6 +26,8 @@ main{
 .main_title{
     font-size: 1.5em;
     width: 80%;
+    color: #878781;
+    text-shadow: 2px 2px 4px rgba(208, 198, 198, 0.5);
 }
 
 .main_form{
