@@ -43,7 +43,8 @@ input{
     border: 1px solid rgb(198, 112, 238);
     box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
     text-align: start;
-    color: #131313;
+    color: #bebebe;
+    text-shadow: 2px 2px 4px rgba(208, 198, 198, 0.5);
 }
 
 input:focus{
